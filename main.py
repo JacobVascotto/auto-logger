@@ -1,5 +1,5 @@
 """
-Auto-Logger | Python Script (Heavily Commented)
+Auto-Logger | Python Script Logic and Programming Assisted by ChatGPT
 
 Tracks user inputs based on identity and role (IT Admin or IT User).
 Allows up to 5 entries (or early exit with 999) and logs all actions to 'log.txt'.
